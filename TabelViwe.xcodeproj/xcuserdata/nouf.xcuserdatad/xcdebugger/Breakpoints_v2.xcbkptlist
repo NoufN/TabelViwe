@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ECE7261F-07DE-42DF-AE4E-6625D6E67E26"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A6B6CD7-1B63-48C1-86F8-1F33D6B46FEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabelViwe/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACE67D24-457C-4C68-A14C-08966AADF37A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabelViwe/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "003D2FC4-E861-4AD9-825B-A0F5898920E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabelViwe/StdClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "Stdents"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "327FEBFF-5A42-4D14-B7DD-C98D479F6722"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabelViwe/StedensCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "StedensCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "327FEBFF-5A42-4D14-B7DD-C98D479F6722 - 9e4d0b8136fcde2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabelViwe.StedensCell.selectedCall.getter : Swift.Bool"
+                  moduleName = "TabelViwe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nouf/Desktop/TabelViwe/TabelViwe/StedensCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "327FEBFF-5A42-4D14-B7DD-C98D479F6722 - ce82502d40cfb631"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabelViwe.StedensCell.selectedCall.setter : Swift.Bool"
+                  moduleName = "TabelViwe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nouf/Desktop/TabelViwe/TabelViwe/StedensCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "327FEBFF-5A42-4D14-B7DD-C98D479F6722 - 91d4e84ed75caaf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabelViwe.StedensCell.selectedCall.modify : Swift.Bool"
+                  moduleName = "TabelViwe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nouf/Desktop/TabelViwe/TabelViwe/StedensCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "327FEBFF-5A42-4D14-B7DD-C98D479F6722 - edeb554cebb72631"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabelViwe.StedensCell.selectedCall.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TabelViwe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nouf/Desktop/TabelViwe/TabelViwe/StedensCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "327FEBFF-5A42-4D14-B7DD-C98D479F6722 - f46ee410c541cac6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabelViwe.StedensCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; TabelViwe.StedensCell"
+                  moduleName = "TabelViwe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nouf/Desktop/TabelViwe/TabelViwe/StedensCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "327FEBFF-5A42-4D14-B7DD-C98D479F6722 - eb1fa93b620be165"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabelViwe.StedensCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TabelViwe.StedensCell&gt;"
+                  moduleName = "TabelViwe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nouf/Desktop/TabelViwe/TabelViwe/StedensCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E4F316E-FB71-49FE-84EC-CCEA53628E76"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabelViwe/New Project/DetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C30E8387-15CD-431A-A564-DB36388A0952"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabelViwe/New Project/DetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "DetailsVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C30E8387-15CD-431A-A564-DB36388A0952 - 70f5b5d1e564b5a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabelViwe.DetailsVC.NameCtiyLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TabelViwe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nouf/Desktop/TabelViwe/TabelViwe/New%20Project/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C30E8387-15CD-431A-A564-DB36388A0952 - a10049cec4d5d29c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabelViwe.DetailsVC.NameCtiyLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TabelViwe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nouf/Desktop/TabelViwe/TabelViwe/New%20Project/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "C30E8387-15CD-431A-A564-DB36388A0952 - f627baf119b01ba3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabelViwe.DetailsVC.NameCtiyLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TabelViwe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nouf/Desktop/TabelViwe/TabelViwe/New%20Project/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "C30E8387-15CD-431A-A564-DB36388A0952 - ef371ad33b76a697"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabelViwe.DetailsVC.NameCtiyLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TabelViwe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nouf/Desktop/TabelViwe/TabelViwe/New%20Project/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C30E8387-15CD-431A-A564-DB36388A0952 - 80a91dbeb209a64a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabelViwe.DetailsVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TabelViwe.DetailsVC"
+                  moduleName = "TabelViwe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nouf/Desktop/TabelViwe/TabelViwe/New%20Project/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "C30E8387-15CD-431A-A564-DB36388A0952 - 7c46d7ff1542a249"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabelViwe.DetailsVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TabelViwe.DetailsVC&gt;"
+                  moduleName = "TabelViwe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nouf/Desktop/TabelViwe/TabelViwe/New%20Project/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
